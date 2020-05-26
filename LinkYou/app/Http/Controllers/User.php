@@ -18,10 +18,22 @@ class User extends Controller
     
         return view('company.indexC',['jobs'=>$jobs]);
         }
-
-        public function PostJob(){
-    
-        
-            return view('user.PostJob');
+        public function viewMore(){
+            return view('user.MoreJobs');
             }
+
+        //esto lleva el id del Post
+        public function seeJob(){
+         
+        
+            return view('user.JobDetails');
+            }
+
+            public function AdminIndex(){
+         
+        
+                return view('admin.index');
+                }
+                
+        
 }

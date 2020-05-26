@@ -1,6 +1,6 @@
 const app = new Vue({
 
-    el: '#app',
+    el: '#viewjob',
 
         methods: {
           deleteRow(index, rows) {

@@ -21,6 +21,8 @@
 </head>
 <body>
     @yield('content')
+
+    
 </body>
 <!-- import Vue.js -->
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -34,5 +36,5 @@
 <script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.js"></script>
 <script src="Component.js"></script>
 <script src="https://unpkg.com/element-ui/lib/index.js"></script>
-<script type="text/javascript" src="{{ URL::asset('js/ViewJob.js') }}">
+<script type="text/javascript" src="{{ URL::asset('js/ViewJob.js') }}"></script>
 </html>

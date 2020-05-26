@@ -1,0 +1,9 @@
+
+Conferencia con el cliente--profesor
+ Estas son los requisitos del proyecto que nos ofrecio el profesor en la primera reuion de clases, los marcados con asteriscos son los completados:
+
+Diagrama de clases****
+Diagrama de componentes***
+Diagrama deploiment***
+Entidad-Relacion
+Caso de Uso**

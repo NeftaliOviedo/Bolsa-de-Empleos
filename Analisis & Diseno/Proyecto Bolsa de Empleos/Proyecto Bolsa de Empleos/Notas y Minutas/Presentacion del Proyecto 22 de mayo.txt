@@ -1,0 +1,9 @@
+Presentacion de proyecto
+
+En esta conferencia se le presento al cliente la arquitectura del proyecto,el itinerario y el presupuesto final.
+
+Se planea que para el viernes de la proxima si tenemos algun impedimento una reunion con el.
+
+Por otro parte la fecha de entrega definitiva sera el dia 3 de junio la cual es la oficial.
+
+Se recalco la parte del diseno de entidad-relacion la cual ya esta en camino de terminacion.
